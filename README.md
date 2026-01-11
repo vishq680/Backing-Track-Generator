@@ -123,7 +123,7 @@ Open:
 
 ---
 
-## Ableton / DAW tips (important)
+## DAW tips
 
 ### “My MIDI has no sound”
 MIDI contains **notes**, not audio. In Ableton:
